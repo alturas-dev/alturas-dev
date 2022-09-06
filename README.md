@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @alturas-dev
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning php, codeigniter, laravel, js, vue, react, jquery, mysql
-- 💞️ I’m looking to collaborate on HARD CORE developers
+- 🌱 I’m currently learning php, codeigniter, laravel, js, vue, react, angular, jquery, mysql
+- 💞️ I’m looking to collaborate with an FREAKING ULTRA HARD CORE developers
 - 👋 Youtube channel https://www.youtube.com/watch?v=dQw4w9WgXcQ
-- 📫 How to reach me 09123456789
+- 📫 How to reach me 
+- Phone: 09123456789
+- Email: itsysdev@alturasbohol.com
 
 <!---
 alturas-dev/alturas-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
