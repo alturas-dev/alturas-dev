@@ -2,9 +2,8 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning php, codeigniter, laravel, js, vue, react, angular, jquery, mysql
 - 💞️ I’m looking to collaborate with an FREAKING ULTRA HARD CORE developers
-- 👋 Youtube channel https://www.youtube.com/watch?v=dQw4w9WgXcQ
 - 📫 How to reach me 
-- Phone: 09123456789
+- Phone: 09*********
 - Email: itsysdev@alturasbohol.com
 
 <!---
